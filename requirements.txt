@@ -1,0 +1,6 @@
+# This file should list all Python libraries that your project depends on
+# Since the project description and provided code snippets do not indicate the use of any external libraries,
+# and Python's random module (which is likely used for generating random numbers) is part of the standard library,
+# this file can be left empty or with a comment indicating as such.
+
+# No external dependencies required
